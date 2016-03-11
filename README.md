@@ -14,7 +14,7 @@ You just need to:
    - your model classes need to inherits from ModelEntity and implements IBaseEntity (see example below)
 
 # Example
-As will live/die by examples, here's one:
+As we live/die by examples, here's one:
 
 ## Model class for User
 ```C#
