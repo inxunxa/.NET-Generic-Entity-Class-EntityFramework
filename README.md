@@ -19,10 +19,10 @@ As we live/die by examples, here's one:
 ## Model class for User
 ```C#
 public class User : ModelEntity<User>, IBaseEntity
-    {
-        public int Id { get; private set; }
-        public string Name { get; set; }
-        public int Age { get; set; }
+{
+   public int Id { get; private set; }
+   public string Name { get; set; }
+   public int Age { get; set; }
 }
 ```
 
